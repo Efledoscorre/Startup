@@ -33,21 +33,21 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
 
 ### Você precisará ter as seguintes ferramentas instaladas:
 
- Python 3: Versão mínima necessária para compilar e rodar o projeto.
+ * Python 3: Versão mínima necessária para compilar e rodar o projeto.
 
- Pycharm: IDE recomendada para facilitar o desenvolvimento e execução do projeto.
+ * Pycharm: IDE recomendada para facilitar o desenvolvimento e execução do projeto.
 
- Java 17: Versão minima necessária para compilar e rodar o projeto
+ * Java 17: Versão minima necessária para compilar e rodar o projeto
  
- Intellij: IDE recomendada para facilitar o desenvolvimento e execução do projeto
+ * Intellij: IDE recomendada para facilitar o desenvolvimento e execução do projeto
 
- Projeto realizado no windows 11
+ # Projeto realizado no windows 11
 
  # Links para download: 
-  * ## [Python](https://www.python.org/downloads/)
-  * ## [Pycharm](https://www.jetbrains.com/pycharm/)
-  * ## [Java](https://www.java.com/pt-BR/download/)
-  * ## [Intellij](https://www.jetbrains.com/pt-br/idea/download/)
+  * ### [Python](https://www.python.org/downloads/)
+  * ### [Pycharm](https://www.jetbrains.com/pycharm/)
+  * ### [Java](https://www.java.com/pt-BR/download/)
+  * ### [Intellij](https://www.jetbrains.com/pt-br/idea/download/)
 
 <hr>
 
