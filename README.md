@@ -86,3 +86,9 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
 
   <hr>
 
+### Contribuidores 
+<a href="https://github.com/Efledoscorre/Startup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Efledoscorre/Startup" />
+</a>
+
+
