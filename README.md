@@ -41,7 +41,7 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
  
  * Intellij: IDE recomendada para facilitar o desenvolvimento e execução do projeto
 
- # Projeto realizado no windows 11
+  Projeto realizado no windows 11
 
  # Links para download: 
   * ### [Python](https://www.python.org/downloads/)
