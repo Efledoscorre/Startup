@@ -29,7 +29,7 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
 ### Como utilizar
 
  Para utilizar o projeto, siga os passos abaixo:
- <hr>
+ 
 
 ### Você precisará ter as seguintes ferramentas instaladas:
 
