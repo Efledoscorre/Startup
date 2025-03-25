@@ -29,14 +29,15 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
 ### Como utilizar
 
  Para utilizar o projeto, siga os passos abaixo:
+ <hr>
 
 ### Você precisará ter as seguintes ferramentas instaladas:
 
- Python: Versão mínima necessária para compilar e rodar o projeto.
+ Python 3: Versão mínima necessária para compilar e rodar o projeto.
 
  Pycharm: IDE recomendada para facilitar o desenvolvimento e execução do projeto.
 
- Java: Versão minima necessária para compilar e rodar o projeto
+ Java 17: Versão minima necessária para compilar e rodar o projeto
  
  Intellij: IDE recomendada para facilitar o desenvolvimento e execução do projeto
 
