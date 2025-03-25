@@ -78,6 +78,8 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
 <div style="display: inline_block"><br>
    <img align="center" alt="Lucas-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Lucas-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 
   <hr>
 
