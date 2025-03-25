@@ -44,10 +44,10 @@ Projeto realizado em Python e Java para representar um sistema de agronomia, no 
  Projeto realizado no windows 11
 
  # Links para download: 
-  * ### [Python](https://www.python.org/downloads/)
-  * ### [Pycharm](https://www.jetbrains.com/pycharm/)
-  * ### [Java](https://www.java.com/pt-BR/download/)
-  * ### [Intellij](https://www.jetbrains.com/pt-br/idea/download/)
+  * ## [Python](https://www.python.org/downloads/)
+  * ## [Pycharm](https://www.jetbrains.com/pycharm/)
+  * ## [Java](https://www.java.com/pt-BR/download/)
+  * ## [Intellij](https://www.jetbrains.com/pt-br/idea/download/)
 
 <hr>
 
